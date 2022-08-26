@@ -55,8 +55,8 @@ nav a{
 }
 nav a:hover{
     background-color: gray;
-    padding-right: 12px;
-    padding-left: 12px;
+    /* padding-right: 12px;
+    padding-left: 12px; */
     
 }
 
