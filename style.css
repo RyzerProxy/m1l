@@ -15,7 +15,12 @@ body {
         width: 30% !important;
     }
     
-  }
+}
+.icon-search{
+    display: flex;
+    justify-content: end;
+    margin-top: -24px;
+}
 
 .main-head {
     background-image: url(images/812556.jpg);
