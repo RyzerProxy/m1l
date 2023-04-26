@@ -26,7 +26,7 @@ body {
     background-image: url(images/812556.jpg);
     background-color: rgba(0, 0, 0, .2);
     background-blend-mode: multiply;
-    background-size: cover;
+    background-size: 100%;
     color: white;
     padding-bottom: 20px;
     text-align: center;
